@@ -1,5 +1,5 @@
 
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="250px" height="200px" aling=center >
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="350px" height="250px" float: center >
 <table>
   <tr>
     <td>
