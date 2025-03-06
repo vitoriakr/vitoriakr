@@ -1,6 +1,10 @@
-## Oie❕ Eu sou a Vitória
-
-👋 Hello! Welcome to my Github profile.
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=👋+Hello!+Welcome+to+my+profile;
+My+name+is+Vitória+and+my+nickname+is+vic!💗;I'+m+a+Full-Stack+developer+💻" alt="Typing SVG">
+  </a>
+</div>
+ Welcome to my Github profile.
 My name is vitória and my nickname is vic!
 
 - 👩‍🎓 Atualmente faço ensino médio com ténico em ti (3ºano) no SENAC;
@@ -15,9 +19,10 @@ My name is vitória and my nickname is vic!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriakr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## Estou aprendendo
+  ## Estou aprendendo 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <h2> Contate-me❕👩‍💻</h2>
 <div>
