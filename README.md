@@ -1,7 +1,7 @@
 ## Oie❕ Eu sou a Vitória
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+👋 Hello! Welcome to my Github profile.
+My name is vitória and my nickname is vic!
 
 - 👩‍🎓 Atualmente faço ensino médio com ténico em ti (3ºano) no SENAC;
 - 🌱 Faço curso de inglês e gosto de estudar novas coisas;
