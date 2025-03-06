@@ -1,11 +1,9 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=👋+Hello!+Welcome+to+my+profile;
-My+name+is+Vitória+and+my+nickname+is+vic!💗;I'+m+a+Full-Stack+developer+💻" >
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Hello!+Welcome+to+my+profile;
+My+name+is+Vitória+and+my+nickname+is+vic!💗;I'+m+a+Full-Stack+developer+💻"  alt="Typing SVG">
   </a>
 </div>
- Welcome to my Github profile.
-My name is vitória and my nickname is vic!
 
 - 👩‍🎓 Atualmente faço ensino médio com ténico em ti (3ºano) no SENAC;
 - 🌱 Faço curso de inglês e gosto de estudar novas coisas;
