@@ -1,11 +1,14 @@
 ## Oie❕ Eu sou a Vitória
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+
 - 👩‍🎓 Atualmente faço ensino médio com ténico em ti (3ºano) no SENAC;
 - 🌱 Faço curso de inglês e gosto de estudar novas coisas;
 - 💬 E-MAIL: vkereski@gmail.com;
 - 😉 Pronoums: Ela/dela;
 - ⚡ Fun fact: Adoro meus 2 gatos, estudar, programar e dormir;
-  
+
 <div>
 <a href="https://github.com/vitoriakr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriakr&layout=compact&langs_count=7&theme=dracula"/>
