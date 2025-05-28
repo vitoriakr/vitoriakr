@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriakr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## Estou aprendendo ou sei
+  ## Estou aprendendo...
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,6 +28,7 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 </div> <br>
 
 <h2> Contate-me❕👩‍💻</h2>
