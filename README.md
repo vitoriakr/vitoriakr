@@ -18,14 +18,6 @@ I’m focused on becoming a **Full-Stack Developer** and exploring areas like **
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love my 2 cats, studying, programming and sleeping  
 
----
-
-## 🚀 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriakr&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriakr&layout=compact&langs_count=7&theme=dracula&hide_border=true" height="170"/>
-</p>>
 
 ---
 
