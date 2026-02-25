@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 👩‍🎓 Atualmente faço ensino médio com ténico em ti (3ºano) no SENAC;
+- 👩‍🎓 Engenharia de Software na FIAP e Alura;
 - 🌱 Faço curso de inglês e gosto de estudar novas coisas;
 - 💬 E-MAIL: vkereski@gmail.com;
 - 😉 Pronoums: Ela/dela;
